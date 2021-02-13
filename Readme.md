@@ -2,4 +2,6 @@
 
 This is a weather app.
 
-App is almost ready but some designing going on so its under process.
+The app is made with a random api and volley librarey.
+
+More deatils are coming
